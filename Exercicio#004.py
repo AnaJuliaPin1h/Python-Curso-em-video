@@ -7,3 +7,12 @@ print("É alfanumérico?", a1.isalnum())
 print("Está em maiúsculo?", a1.isupper())
 print("Está em minúsculo?", a1.islower())
 print("Está capitalizado?", a1.istitle())
+
+
+#alfabetico - isalpha 
+#numerico - isnumeric
+#só tem espaços - isspace
+#alfabético e numérico - isalnum
+#está em maiúsculas - isupper
+#está em minúculas - islower
+#está só com a primeira letra em maiúsulas - istitle
