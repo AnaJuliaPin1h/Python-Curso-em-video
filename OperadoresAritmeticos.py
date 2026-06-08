@@ -12,7 +12,7 @@
 # Usado para multiplicar valores.
 # Exemplo: 4 * 2 = 8
 
-# / (Divisão)
+# / (Divisão)   / retorna um flutuador, // retorna um inteiro
 # Realiza a divisão entre dois números e sempre retorna um número decimal (float).
 # Exemplo: 10 / 2 = 5.0
 
@@ -34,7 +34,7 @@
 # Exemplo:
 # 10 // 3 = 3
 
-
+#/ retorna um flutuador, // retorna um inteiro
 
 # % (Módulo ou Resto da Divisão)
 # Retorna o resto da divisão entre dois números.
@@ -70,8 +70,8 @@ print("A soma vale: {}".format(soma))
 #soma = numero_1 + numero_2
 #subtracao = numero_1 - numero_2
 #multiplicacao = numero_1 * numero_2
-#divisao = numero_1 / numero_2
-#divisao_inteira = numero_1 // numero_2
+#divisao = numero_1 / numero_2   / retorna um flutuador, // retorna um inteiro
+#divisao_inteira = numero_1 // numero_2       / retorna um flutuador, // retorna um inteiro
 #modulo = numero_1 % numero_2
 #exponenciacao = numero_1 ** numero_2
 
@@ -82,3 +82,9 @@ print("A soma vale: {}".format(soma))
 #print(divisao_inteira) # 2
 #print(modulo)  # 1
 #print(exponenciacao) # 25
+
+
+
+#/ retorna um flutuador, // retorna um inteiro
+
+
